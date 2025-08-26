@@ -1,6 +1,4 @@
-# Iterated Prisoner's Dilemma, Trust
-# Strategy and FSM’s as a Mind Model for
-# Searching Optimal Strategy
+# Iterated Prisoner's Dilemma, Trust Strategy and FSM’s as a Mind Model for Searching Optimal Strategy
 
 ### by Aleksej Tomazic, Chenghao Liu, Mingwei Sun and Zuoru Jin
 
